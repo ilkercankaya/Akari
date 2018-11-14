@@ -3,7 +3,7 @@ Akari is a game which consists of black boxes, white boxes and light bulbs. Each
 
 ![Boloxorz](https://www.researchgate.net/profile/Andrew_Parkes/publication/220174445/figure/fig5/AS:277313137725445@1443128012478/A-completed-Light-Up-Puzzle.png)
 
-##### [You can play Akari here.](https://www.puzzle-light-up.com)
+##### [You can play Akari here](https://www.puzzle-light-up.com)
 
 ## Goal
 
